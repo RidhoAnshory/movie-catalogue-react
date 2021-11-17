@@ -1,3 +1,7 @@
 .App {
-  @apply bg-red-300 flex;
+  @apply bg-red-300 flex flex-col items-center;
+}
+
+.yuji {
+  @apply font-mono;
 }

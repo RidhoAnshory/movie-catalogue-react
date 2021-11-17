@@ -6,6 +6,10 @@ module.exports = {
       fontFamily: {
         body: "Yuji Mai, serif",
       },
+      colors: {
+        main: "rgb(48,197,178)",
+        maindarker: "#0F4847",
+      },
     },
   },
   variants: {

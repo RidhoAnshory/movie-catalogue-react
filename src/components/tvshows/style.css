@@ -1,0 +1,8 @@
+.background {
+  background: linear-gradient(to right, black, transparent),
+    url("../../images/thewitcher.jpg") no-repeat center center / cover;
+}
+
+.shet {
+  background-image: url("../../images/thewitcher.jpg");
+}
